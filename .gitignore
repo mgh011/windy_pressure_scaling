@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# NetCDF / data
+*.nc
+*.h5
+*.zarr
+
+# Figures / outputs
+*.png
+*.pdf
+
+# OS
+.DS_Store
+
+# Virtual env
+.venv/
+env/
+

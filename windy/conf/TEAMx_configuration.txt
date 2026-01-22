@@ -1,0 +1,23 @@
+{
+  "dataset": "TEAMx",
+
+  "paths": {
+    "hf_dir": "/Users/mauro_ghirardelli/Documents/TEAMx/hourly",
+    "lf_dir": "/Users/mauro_ghirardelli/Documents/TEAMx/hourly",
+    "out_dir": "/Users/mauro_ghirardelli/Documents/TEAMx/processed"
+  },
+
+  "window": "30min",
+
+  "products": {
+    "bulk": true,
+    "spectra": true,
+    "cospectra": true,
+    "autocorr": true,
+    "microbarom": true,
+    "anisotropy": true
+  }
+}
+
+
+ 
